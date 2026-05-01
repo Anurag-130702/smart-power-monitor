@@ -2,6 +2,11 @@
 
 An EEE + Software hybrid project that simulates real-time electrical parameters and monitors power consumption with overload detection.
 
+## 📸 Preview
+<p align="center">
+  <img src="screenshot.png" width="800"/>
+</p>
+
 ## 🚀 Features
 - Real-time voltage & current simulation
 - Power calculation (P = V × I)
